@@ -9,6 +9,6 @@ public class GitController {
     @RequestMapping("git")
     public String git(){
 
-        return "Git Success...first modified....项目经理conflict";
+        return "Git Success...first modified....项目经理conflict....项目经理conflict_again";
     }
 }
